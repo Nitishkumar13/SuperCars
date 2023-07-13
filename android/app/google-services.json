@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696166743192",
+    "project_id": "supercars-c1e85",
+    "storage_bucket": "supercars-c1e85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696166743192:android:bf415ee50d82b342dea4ed",
+        "android_client_info": {
+          "package_name": "com.example.login_logout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696166743192-7g9iefnff3vbbqc9i8s3ha3n5rgu34t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgUwqMxAQokCqd9_K0nchRCuaFZxj1wMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696166743192-7g9iefnff3vbbqc9i8s3ha3n5rgu34t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
